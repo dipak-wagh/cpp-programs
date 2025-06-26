@@ -1,6 +1,6 @@
-# Problem Solving in C++
+# Problem Solving in CPP
 
-This repository contains my daily practice and solutions to various programming problems using **C++**. The problems cover a wide range of topics and data structures, from basic to advanced levels.
+This repository contains my daily practice and solutions to various programming problems using **CPP**. The problems cover a wide range of topics and data structures, from basic to advanced levels.
 
 ## 🧠 Topics Covered
 
