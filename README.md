@@ -8,7 +8,7 @@ This repository contains my daily practice and solutions to various programming 
 - Algorithms: Sorting, Searching, Recursion, Backtracking, Dynamic Programming, Greedy Algorithms, etc.
 - Competitive Programming Questions from platforms like LeetCode, Codeforces, HackerRank, and more.
 
-## pdates
+## dates
 
 I update this repository on a **daily basis** as part of my learning and continuous improvement in problem-solving.
 
