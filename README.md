@@ -17,7 +17,3 @@ I update this repository on a **daily basis** as part of my learning and continu
 - Strengthen algorithmic thinking and coding skills
 - Master core C++ concepts and STL
 - Maintain a personal reference for revision and future use
-
-## Note
-
-This repository is open for learning and sharing. Feel free to explore or use the code for educational purposes.
